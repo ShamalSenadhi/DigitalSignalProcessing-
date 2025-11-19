@@ -20,4 +20,6 @@ scipy
 matplotlib
 librosa
 soundfile
+sounddevice
+
 
