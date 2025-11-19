@@ -21,7 +21,8 @@ matplotlib
 librosa
 soundfile
 sounddevice
-PortAudio
+pyaudio
+
 
 
 
